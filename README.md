@@ -14,7 +14,7 @@ python counting_app.py
 
 ## Results
 
-![picture](images/output.jpg)
+![picture](images/output.png)
 
 April 2020
 
