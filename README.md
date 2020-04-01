@@ -2,7 +2,7 @@
 Worm Counting in Biomedical Application.
 
 ## Requirements
-- Python 3
+- Python 3.6
 - OpenCV
 
 ## Usage
