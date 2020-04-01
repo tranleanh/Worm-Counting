@@ -47,7 +47,7 @@ if __name__ == '__main__':
 	# CHANGE IMAGE FILE NAME HERE! #
 
 	# img_name = 'worm_4_cropped.jpg'
-	img_name = '78.jpg'
+	img_name = 'images/78.jpg'
 
 # ===================================== #
 
