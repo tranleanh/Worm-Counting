@@ -8,7 +8,7 @@ Worm Counting in Biomedical Application.
 ## Installations
 ### 1. Installing Python 3.6
 Download and install python3.6
-- Download [here](https://www.python.org/downloads/release/python-3610/)
+- Download [here](https://www.python.org/downloads/release/python-360/)
 - Install tutorial [here](https://www.pytorials.com/python-download-install-windows/)
 
 ### 2. Installing pip
